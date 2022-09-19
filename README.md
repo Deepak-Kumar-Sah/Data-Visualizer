@@ -1,3 +1,6 @@
+Assignment Final Image:
+![Assignment](https://user-images.githubusercontent.com/56478185/191036488-1f206a9b-1a1c-4d7b-a4d2-3a4739ac7e43.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

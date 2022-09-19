@@ -37,6 +37,7 @@ const Home=()=>{
             avgValues.push(totalMalic/itemCount)
             data.push({Category:category,avg:avgValues})
        }
+       return 1;
     })  
     return data;
 
@@ -46,6 +47,7 @@ const ScatterList = ()=>{
     let data=[]
     WineJson.map((item)=>{
     data.push([item["Color intensity"],item.Hue])
+    return 1;
     })
     return data;
 }
